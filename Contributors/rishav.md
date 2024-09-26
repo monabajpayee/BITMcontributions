@@ -1,4 +1,4 @@
-# Vishal Gorai
+# Rishav Mishra
 
 ## Academics: 
 #### Pursuing B.Tech in Electronics and Communication Engineering
@@ -11,4 +11,5 @@
 - Embedded Systems
 
 ### Portfolio :
-[vishalgorai.cf](http://vishalgorai.cf)
+[Rishav Mishra](https://#)
+
